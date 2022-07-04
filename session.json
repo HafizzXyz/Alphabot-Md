@@ -1,6 +1,3 @@
-*Alphabot-Mdོ*
-EXEC: cat session.json
-
 {
   "creds": {
     "noiseKey": {
